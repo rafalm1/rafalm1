@@ -1,14 +1,14 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*gdK__S0SyCdasscIs_1Slw.gif)](https://rafalmalyszkov2.netlify.app/)
-
-<h1 align="center">Hi 🙂, I'm Rafał Małyszko</h1>
-<h1 align="center">Frontend Developer 🧙</h1>
-
+<p align="center">
+  <a href="https://rafalmalyszkov2.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rafalm1/rafalm1/main/rafal.gif" alt="Rafał Małyszko Portfolio" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Svelte, Three.js, TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://rafalmalyszko.netlify.app/](https://rafalmalyszko.netlify.app/)
 
-- 💬 Ask me about **react, vue, css**
+- 💬 Ask me about **React, Vue, CSS**
 
 - 📫 How to reach me **rm.rafalmalyszko@gmail.com**
 
