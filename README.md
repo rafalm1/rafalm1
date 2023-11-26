@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rafalmalyszkov2.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rafalm1/rafalm1/main/rafal.gif" alt="Rafał Małyszko Portfolio" />
+    <img src="https://raw.githubusercontent.com/rafalm1/rafalm1/main/rafal-no-loop.gif" alt="Rafał Małyszko Portfolio" />
   </a>
 </p>
 
