@@ -4,7 +4,7 @@
   </a>
 </p>
 
-- 🛠️ I mainly use **React** and **Vue**
+- 🛠️ I mainly use **React** and **Vue** as libraries
 
 - 🌐 Check out my portoflio website **[https://rafalmalyszko.netlify.app/](https://rafalmalyszko.netlify.app/)**
 
