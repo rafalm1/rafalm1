@@ -6,11 +6,11 @@
 
 - 🛠️ I mainly use **React** and **Vue** as libraries
 
+- 📖 I am currently expanding my knowledge by learning backend technologies such as Node.js (Express.js), MySQL and MongoDB, plus AWS for automating CI/CD processes
+
 - 🌐 Check out my portoflio website **[https://rafalmalyszko.netlify.app/](https://rafalmalyszko.netlify.app/)**
 
 - 📫 How to reach me **rm.rafalmalyszko@gmail.com**
-
-- 📖 I’m currently learning Svelte, Three.js, TensorFlow
 
 <h3 align="left">Languages and Tools:</h3>
 
